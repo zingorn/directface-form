@@ -1,0 +1,20 @@
+{
+    "name": "zingorn/directface-form",
+    "description": " ",
+    "license": "BSD-3-Clause",
+    "keywords": [
+    ],
+    "autoload": {
+        "psr-0": {
+            "Directface\\Form\\": ""
+        }
+    },
+    "target-dir": "Directface/Form",
+    "require": {
+        "php": ">=5.3.3"
+
+    },
+    "suggest": {
+
+    }
+}
